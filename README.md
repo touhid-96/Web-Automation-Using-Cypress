@@ -8,7 +8,7 @@ https://katalon-demo-cura.herokuapp.com/
 - Login
 - Make an appointment
 - Select Facility : Hongkong CURA Healthcare Center
-- Check on : Apply for hospital readmission"
+- Check on : Apply for hospital readmission
 - Select Healthcare Program : Medicaid
 - Select a visit Date
 - Add a comment
