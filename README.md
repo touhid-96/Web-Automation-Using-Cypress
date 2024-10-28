@@ -22,6 +22,7 @@ https://katalon-demo-cura.herokuapp.com/
 ## Technology and Tool Used
 - VS Code
 - JavaScript
+- NodeJS
 - Cypress
 - Cypress Mochawesome Reporter
 
