@@ -1,7 +1,7 @@
 # Web Automation Using Cypress
 
 ## Website
-`https://katalon-demo-cura.herokuapp.com/`
+https://katalon-demo-cura.herokuapp.com/
 
 ## Scenario
 - Visit the website
