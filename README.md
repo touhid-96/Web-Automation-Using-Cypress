@@ -15,7 +15,7 @@ https://katalon-demo-cura.herokuapp.com/
 - Book an Appointment
 - Verify the appointment
 
-## Test case check list based on the Scenerio:
+## Test case check list based on the Scenerio
 - User login with valid creds
 - User makes and appointment
 
