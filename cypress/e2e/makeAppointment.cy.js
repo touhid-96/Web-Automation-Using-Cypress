@@ -1,7 +1,7 @@
 import LoginPage from "../pages/loginPage"
 import MakeAppointment from "../pages/MakeAppointmentPage"
 
-describe("Make Appointment Functionality", () => {
+describe("User makes and appointment", () => {
 	const loginPage = new LoginPage()
 	const makeAppointment = new MakeAppointment()
 
