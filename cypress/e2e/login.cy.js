@@ -1,8 +1,8 @@
-import LoginPage from "../pages/loginPage"
+import LoginPage from "../pages/loginPage";
 
 describe("User login with valid creds", () => {
-	const loginPage = new LoginPage()
+	const loginPage = new LoginPage();
 	it("Valid Login", () => {
-		loginPage.KuraLogin()
-	})
-})
+		loginPage.KuraLogin();
+	});
+});

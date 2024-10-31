@@ -1,15 +1,15 @@
-import LoginPage from "../pages/loginPage"
-import MakeAppointment from "../pages/MakeAppointmentPage"
+import LoginPage from "../pages/loginPage";
+import MakeAppointment from "../pages/MakeAppointmentPage";
 
 describe("User makes an appointment", () => {
-	const loginPage = new LoginPage()
-	const makeAppointment = new MakeAppointment()
+	const loginPage = new LoginPage();
+	const makeAppointment = new MakeAppointment();
 
 	beforeEach(() => {
-		loginPage.KuraLogin()
-	})
+		loginPage.KuraLogin();
+	});
 
 	it("Make appointment", () => {
-		makeAppointment.userAppointment()
-	})
-})
+		makeAppointment.userAppointment();
+	});
+});
